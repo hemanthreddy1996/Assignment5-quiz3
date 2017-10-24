@@ -1,0 +1,14 @@
+.error_msg
+{
+       color:red;
+       text-decoration:underline;
+       margin-left: 80px;
+       display:block;
+}
+body{
+background-color: lavender;
+color:#210B09;
+background-image: url("validation.png");
+background-repeat: no-repeat;
+   background-position: 400px 100px;
+}
